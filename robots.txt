@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://elpatione.github.io/sitemap
+Sitemap: https://elpatione.github.io/app/sitemap
+Sitemap: https://elpatione.github.io/assets/sitemap
+Sitemap: https://elpatione.github.io/css/sitemap
+Sitemap: https://elpatione.github.io/includes/sitemap
+Sitemap: https://elpatione.github.io/item/sitemap
+Sitemap: https://elpatione.github.io/src/sitemap
